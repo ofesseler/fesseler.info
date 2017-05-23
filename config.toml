@@ -1,4 +1,4 @@
-baseurl             = "http://192.168.2.3/"
+baseurl             = "http://fesseler.info/"
 builddrafts         = true
 canonifyurls        = true
 contentdir          = "content"
@@ -29,11 +29,11 @@ weight                 = -110
 identifier             = "about"
 url                    = "/about/"
 
-#[[menu.main]]
-#name                   = "Projects"
-#weight                 = -100
-#identifier             = "projects"
-#url                    = "/projects/"
+[[menu.main]]
+name                   = "Projects"
+weight                 = -100
+identifier             = "projects"
+url                    = "/projects/"
 
 [params]
 latestpostscount       = 5                             # how many posts to display on the home page
