@@ -47,6 +47,7 @@ email                  = "oliver@fesseler.info"
 extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
 faviconfile            = "img/leaf.ico"
 github                 = "//github.com/ofesseler"
+pgp                    = "//keybase.io/ofesseler"
 highlightjs            = true
 lang                   = "en"
 linkedin               = "//linkedin.com/in/oliver-fesseler-167b243b"
