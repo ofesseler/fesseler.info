@@ -1,6 +1,6 @@
-baseurl             = "http://fesseler.info/"
+baseurl             = "//fesseler.info/"
 builddrafts         = true
-canonifyurls        = true
+canonifyurls        = false
 contentdir          = "content"
 languageCode        = "en-US"
 layoutdir           = "layouts"
