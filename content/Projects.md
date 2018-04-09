@@ -12,7 +12,7 @@ title = "Projects"
 
 ## Research: 
 
-- Anomalie Detection with Neural Networks
+- Anomaly Detection with Neural Networks and Deep Learning
 
 ## Publications: 
 
